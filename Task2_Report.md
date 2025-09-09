@@ -22,4 +22,4 @@ AI Study Buddy – A smart website for students to boost productivity.
 - Took screenshots of key pages for documentation.
 
 ## Final Link
-[Insert your live website link here]
+[https://23951a05bf.wixsite.com/ai-powered-student-p]
